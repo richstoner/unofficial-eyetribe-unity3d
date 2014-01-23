@@ -2,7 +2,7 @@
 
 Rich Stoner, 1/23/2014
 
-![Screenshot]()
+![Screenshot](https://raw2.github.com/richstoner/unofficial-eyetribe-unity3d/master/screenshot.jpg)
 
 This respository contains an initial client for the [EyeTribe eyetracker](https://theeyetribe.com/) in the Unity3D game engine (v4.x). 
 
